@@ -16,7 +16,9 @@ a {
 p {
     font-size: 16px;
 }
-
+/*
+----Header----
+*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -49,7 +51,10 @@ p {
     display: inline-block;
     margin-left: 25px;
 }
-/*Connected the background image with the html element id to the link below listed in css.*/
+
+/*
+----Main Banner Image----
+*/
 .hero {
     height: 800px;
     width: 100%;
@@ -75,6 +80,11 @@ p {
     margin-left: 20px;
 }
 
+
+/*
+----Benefit Right Sidebar----
+*/
+
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -86,7 +96,7 @@ p {
     background-color: #2589bd;
     
 }
-/* Consolidated code in css by adjusting class names in html and cleaning up css file with "benefit-item" and "content-paragraphs".*/
+
 
 .benefit-item {
     margin-bottom: 32px;
@@ -98,12 +108,15 @@ p {
     text-align: center;
 }
 
+
 .benefit-item img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-
+/*
+----Content of Menu items----
+*/
 .content-paragraphs {
     margin-bottom: 20px;
     padding: 50px;
@@ -117,10 +130,15 @@ p {
     max-height: 200px;
 }
 
+
 .content-paragraphs h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/*
+-----Footer----
+*/
+
 
 .footer {
     padding: 30px;

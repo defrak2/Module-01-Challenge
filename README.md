@@ -2,7 +2,6 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 
 - I was motivated to work on this project to learn how to debug existing code and streamline/consolidate code to be more efficient.
 - I built this project to learn alt attributes, consolidation of code, the structure of css and much more.
@@ -15,7 +14,7 @@ Provide a short description explaining the what, why, and how of your project. U
 
 ![Screenshot 1](assets/images/Screenshot1.png)
 ![Screenshot2](assets/images/Screenshot2.png)
-
+https://defrak2.github.io/Module-01-Challenge/
 
 ## License
 
